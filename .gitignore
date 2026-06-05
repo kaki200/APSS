@@ -1,0 +1,19 @@
+# PyInstaller / Build artifacts
+build/
+dist/
+*.spec
+*.exe
+
+# Virtual Environments
+build_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# App local data
+scanned_images/
+original_images/
+scanner_config.json
